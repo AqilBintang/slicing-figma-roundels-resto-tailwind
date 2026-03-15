@@ -1,0 +1,10 @@
+{
+    "liveServer.settings.port": 5501,
+    "files.associations": {
+        "*.css": "tailwindcss"
+    },
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact",
+        "html": "html"
+    }
+}

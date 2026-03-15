@@ -1,0 +1,12 @@
+/* goggle font */
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap");
+
+/* font awesome */
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css");
+
+/* import tailwindcss */
+@import "tailwindcss";
+
+@theme {
+    --font-roboto: "Roboto", sans-serif;
+}
